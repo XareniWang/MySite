@@ -1,0 +1,32 @@
+
+body {
+    margin: 0;
+}
+
+.top-container {
+    text-align: center;
+    font-family: cursive;
+    background-color: #ffb4b4;
+    margin: 0;
+    padding: 20px;
+}
+
+.middle-container {
+    background-color: #ff9292;
+     height: 200px;
+}
+
+.bottom-container {
+    background-color: #ffe8e8;
+    height: 200px;
+}
+
+.pink{
+    font-family: cursive;
+    color: #ee5b5b;
+}
+
+.mountain { 
+    position: relative;
+    top: 50px;
+}
